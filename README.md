@@ -9,33 +9,33 @@ This is currently a work in progress. You can track live devlogs on my twitter, 
 <details>
   <summary>Level 0-1</summary>
   
-![](ScreenshotsAndVideos/Ultrakill0-1-1_1.png)
+<img src="ScreenshotsAndVideos/Ultrakill0-1-1_1.png" width="500"/>
 	
-![](ScreenshotsAndVideos/Ultrakill0-1-1_2.png)
+<img src="ScreenshotsAndVideos/Ultrakill0-1-1_2.png" width="500"/>
 	
-![](ScreenshotsAndVideos/Ultrakill0-1-1_3.png)
+<img src="ScreenshotsAndVideos/Ultrakill0-1-1_3.png" width="500"/>
 	
-![](ScreenshotsAndVideos/Ultrakill0-1-1_4.png)
+<img src="ScreenshotsAndVideos/Ultrakill0-1-1_4.png" width="500"/>
 </details>
 
 <details>
   <summary>V1 Arm</summary>
   
-![](ScreenshotsAndVideos/Arm1.png)
+<img src="ScreenshotsAndVideos/Arm1.png" width="500"/>
 	
-![](ScreenshotsAndVideos/Arm2.png)
+<img src="ScreenshotsAndVideos/Arm2.png" width="500"/>
 	
-![](ScreenshotsAndVideos/Arm3.png)
+<img src="ScreenshotsAndVideos/Arm3.png" width="500"/>
 	
-![](ScreenshotsAndVideos/ArmIngame.png)
+<img src="ScreenshotsAndVideos/ArmIngame.png" width="500"/>
 	
-![](ScreenshotsAndVideos/2025-04-30%2017-51-12.mp4)
+<img src="ScreenshotsAndVideos/2025-04-30%2017-51-12.mp4" width="500"/>
 </details>
 
 <details>
   <summary>Marksman</summary>
   
-![](ScreenshotsAndVideos/Marksman1.png)
+<img src="ScreenshotsAndVideos/Marksman1.png" width="500"/>
 	
-![](ScreenshotsAndVideos/Marksman2.png)
+<img src="ScreenshotsAndVideos/Marksman2.png" width="500"/>
 </details>
