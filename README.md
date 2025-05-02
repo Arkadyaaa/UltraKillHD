@@ -28,8 +28,9 @@ This is currently a work in progress. You can track live devlogs on my twitter, 
 <img src="ScreenshotsAndVideos/Arm3.png" width="500"/>
 	
 <img src="ScreenshotsAndVideos/ArmIngame.png" width="500"/>
-	
-<img src="ScreenshotsAndVideos/2025-04-30%2017-51-12.mp4" width="500"/>
+
+[](ScreenshotsAndVideos/2025-04-30%17-51-12.mp4)
+
 </details>
 
 <details>
