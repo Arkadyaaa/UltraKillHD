@@ -6,4 +6,7 @@ This is currently a work in progress. You can track live devlogs on my twitter, 
 
 ## Screenshots
 
-<img src="https://github.com/Arkadyaaa/UltraKillHD/blob/main/ScreenshotsAndVideos/Ultrakill0-1-1_1.png?raw=true" width="600">
+<img src="https://github.com/Arkadyaaa/UltraKillHD/blob/main/ScreenshotsAndVideos/Ultrakill0-1-1_1.png?raw=true" width="500">
+<img src="https://github.com/Arkadyaaa/UltraKillHD/blob/main/ScreenshotsAndVideos/Ultrakill0-1-1_2.png?raw=true" width="500">
+<img src="https://github.com/Arkadyaaa/UltraKillHD/blob/main/ScreenshotsAndVideos/Ultrakill0-1-1_3.png?raw=true" width="500">
+<img src="https://github.com/Arkadyaaa/UltraKillHD/blob/main/ScreenshotsAndVideos/Ultrakill0-1-1_4.png?raw=true" width="500">
