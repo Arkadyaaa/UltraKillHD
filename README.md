@@ -9,33 +9,33 @@ This is currently a work in progress. You can track live devlogs on my twitter, 
 <details>
   <summary>Level 0-1</summary>
   
-	![](https://github.com/Arkadyaaa/UltraKillHD/blob/main/ScreenshotsAndVideos/Ultrakill0-1-1_1.png?raw=true)
+	![](ScreenshotsAndVideos/Ultrakill0-1-1_1.png)
 	
-	![](https://github.com/Arkadyaaa/UltraKillHD/blob/main/ScreenshotsAndVideos/Ultrakill0-1-1_2.png?raw=true)
+	![](ScreenshotsAndVideos/Ultrakill0-1-1_2.png)
 	
-	![](https://github.com/Arkadyaaa/UltraKillHD/blob/main/ScreenshotsAndVideos/Ultrakill0-1-1_3.png?raw=true)
+	![](ScreenshotsAndVideos/Ultrakill0-1-1_3.png)
 	
-	![](https://github.com/Arkadyaaa/UltraKillHD/blob/main/ScreenshotsAndVideos/Ultrakill0-1-1_4.png?raw=true)
+	![](ScreenshotsAndVideos/Ultrakill0-1-1_4.png)
 </details>
 
 <details>
   <summary>V1 Arm</summary>
   
-	![](https://github.com/Arkadyaaa/UltraKillHD/blob/main/ScreenshotsAndVideos/Arm1.png?raw=true)
+	![](ScreenshotsAndVideos/Arm1.png)
 	
-	![](https://github.com/Arkadyaaa/UltraKillHD/blob/main/ScreenshotsAndVideos/Arm2.png?raw=true)
+	![](ScreenshotsAndVideos/Arm2.png)
 	
-	![](https://github.com/Arkadyaaa/UltraKillHD/blob/main/ScreenshotsAndVideos/Arm3.png?raw=true)
+	![](ScreenshotsAndVideos/Arm3.png)
 	
-	![](https://github.com/Arkadyaaa/UltraKillHD/blob/main/ScreenshotsAndVideos/ArmIngame.png?raw=true)
+	![](ScreenshotsAndVideos/ArmIngame.png)
 	
-	https://github.com/Arkadyaaa/UltraKillHD/blob/main/ScreenshotsAndVideos/2025-04-30%2017-51-12.mp4?raw=true
+	![](ScreenshotsAndVideos/2025-04-30%2017-51-12.mp4)
 </details>
 
 <details>
   <summary>Marksman</summary>
   
-	![](https://github.com/Arkadyaaa/UltraKillHD/blob/main/ScreenshotsAndVideos/Marksman1.png?raw=true)
+	![](ScreenshotsAndVideos/Marksman1.png)
 	
-	![](https://github.com/Arkadyaaa/UltraKillHD/blob/main/ScreenshotsAndVideos/Marksman2.png?raw=true)
+	![](ScreenshotsAndVideos/Marksman2.png)
 </details>
