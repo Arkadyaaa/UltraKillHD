@@ -38,4 +38,6 @@ This is currently a work in progress. You can track live devlogs on my twitter, 
 <img src="ScreenshotsAndVideos/Marksman1.png" width="500"/>
 	
 <img src="ScreenshotsAndVideos/Marksman2.png" width="500"/>
+	
+<img src="ScreenshotsAndVideos/Marksman3.png" width="500"/>
 </details>
